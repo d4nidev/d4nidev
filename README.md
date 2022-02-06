@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @d4nidev
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently studing at Estácio de Sá University.
+- 📫 How to reach me: adanirodrigues.dev@gmail.com
